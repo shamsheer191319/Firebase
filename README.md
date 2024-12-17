@@ -159,10 +159,3 @@ firebase deploy
 A Postman collection is included in the repository (`TaskManagement.postman_collection.json`) for API testing.
 
 ---
-
-## **Future Enhancements**
-- Integration with third-party notification services (e.g., Twilio or SendGrid).
-- Frontend UI for task management.
-- Advanced task analytics for admins.
-
----
