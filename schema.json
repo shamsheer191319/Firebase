@@ -1,0 +1,20 @@
+{
+    "users": {
+      "uid": "string",
+      "name": "string",
+      "email": "string",
+      "profilePicture": "string",
+      "role": "string"
+    },
+    "tasks": {
+      "id": "string",
+      "title": "string",
+      "description": "string",
+      "status": "string",
+      "assignee": "string",
+      "createdBy": "string",
+      "createdAt": "timestamp",
+      "updatedAt": "timestamp"
+    }
+  }
+  
